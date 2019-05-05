@@ -1,0 +1,86 @@
+{
+  "Users" : {
+    "6rLVc4kMOQP8J11cpOu8dFWCUUj1" : {
+      "Apartment" : "7",
+      "Name" : "Kacie h",
+      "Phone Number" : "1234567"
+    },
+    "FQbcF5UTPyVU0zcpCXp6gfCepBC2" : {
+      "Apartment" : "s7",
+      "Name" : "kamaron Bickham",
+      "Phone Number" : "1234567"
+    },
+    "FtMCgjA7B0Q2iQDPTkkKC4UOcbw2" : {
+      "Apartment" : "G&R",
+      "Name" : "jay",
+      "Phone Number" : "1234567"
+    },
+    "uUHc0VghdVMkVLVYA79Sl5x1o132" : {
+      "Apartment" : "3",
+      "Name" : "ali",
+      "Phone Number" : "6183039636"
+    }
+  },
+  "stripeTokens" : {
+    "6rLVc4kMOQP8J11cpOu8dFWCUUj1" : {
+      "Your Token" : {
+        "card" : {
+          "brand" : "Visa",
+          "country" : "US",
+          "cvcCheck" : "unchecked",
+          "expMonth" : 4,
+          "expYear" : 2021,
+          "funding" : "credit",
+          "id" : "card_1Ci3buEGeZBdakcSp15fYkGW",
+          "last4" : "4242",
+          "type" : "Visa"
+        },
+        "created" : {
+          "date" : 28,
+          "day" : 4,
+          "hours" : 12,
+          "minutes" : 8,
+          "month" : 5,
+          "seconds" : 46,
+          "time" : 1530205726000,
+          "timezoneOffset" : 300,
+          "year" : 118
+        },
+        "id" : "tok_1Ci3buEGeZBdakcSiSFXx0GM",
+        "livemode" : false,
+        "type" : "card",
+        "used" : false
+      }
+    },
+    "FQbcF5UTPyVU0zcpCXp6gfCepBC2" : {
+      "Your Token" : {
+        "card" : {
+          "brand" : "Visa",
+          "country" : "US",
+          "cvcCheck" : "unchecked",
+          "expMonth" : 2,
+          "expYear" : 2022,
+          "funding" : "credit",
+          "id" : "card_1CcJLKEGeZBdakcSxuXPtaLx",
+          "last4" : "4242",
+          "type" : "Visa"
+        },
+        "created" : {
+          "date" : 12,
+          "day" : 2,
+          "hours" : 20,
+          "minutes" : 43,
+          "month" : 5,
+          "seconds" : 54,
+          "time" : 1528836234000,
+          "timezoneOffset" : 0,
+          "year" : 118
+        },
+        "id" : "tok_1CcJLKEGeZBdakcSgcESg1hr",
+        "livemode" : false,
+        "type" : "card",
+        "used" : false
+      }
+    }
+  }
+}

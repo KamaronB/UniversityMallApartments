@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "153705720726",
+    "firebase_url": "https://university-mall-apartments.firebaseio.com",
+    "project_id": "university-mall-apartments",
+    "storage_bucket": "university-mall-apartments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153705720726:android:fd5665e11ba85209",
+        "android_client_info": {
+          "package_name": "com.example.fbe.universitymallapt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153705720726-ln5cc6n7olaf4e7rh1dfs580mss6moa3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fbe.universitymallapt",
+            "certificate_hash": "fed2933b1641e20653c45f07331fb839cbdfc8cb"
+          }
+        },
+        {
+          "client_id": "153705720726-rgbtonh9u83m9nkagplc76gqjretppmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBreZUREvM6rhEHYYs1dzBcVNEYb8By1Fo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153705720726-rgbtonh9u83m9nkagplc76gqjretppmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
